@@ -5,8 +5,8 @@
 - 登陆页面 提供基础的用户身份验证功能，确保用户的安全访问。
 - 用户管理页面 通过直观的界面，使管理员能够方便地管理和维护用户数据，包括用户的创建、编辑、删除，以及数据的批量导入与导出等功能。
 
-![登陆页面](/imit/src/assets/screenShot/login.png)
-![登陆页面](/imit/src/assets/screenShot/adminPage.png)
+![登陆页面](https://github.com/lucy020302/Saber/blob/main/src/assets/screenShot/login.png)
+![用户管理页面](https://github.com/lucy020302/Saber/blob/main/src/assets/screenShot/adminPage.png)
 
 ## 技术栈
 
